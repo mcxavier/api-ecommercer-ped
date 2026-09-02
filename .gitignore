@@ -55,3 +55,9 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/.vs/api-ecommercer-ped.slnx/FileContentIndex/42cec3ab-9856-446c-bb4f-3702b62db241.vsidx
+/.vs/api-ecommercer-ped.slnx/FileContentIndex/5fbb0091-449d-488a-99c3-790689396fc1.vsidx
+/.vs/api-ecommercer-ped.slnx/FileContentIndex/ce1ab9f9-a5ab-4bfa-a918-3937efed90fc.vsidx
+/.vs/api-ecommercer-ped.slnx/config/applicationhost.config
+/.vs/api-ecommercer-ped.slnx/v18
+/*.bak
