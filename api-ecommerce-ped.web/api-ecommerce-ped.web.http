@@ -1,0 +1,6 @@
+@api_ecommerce_ped.web_HostAddress = http://localhost:5036
+
+GET {{api_ecommerce_ped.web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

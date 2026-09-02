@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="api-ecommercer-ped.application/api-ecommercer-ped.application.csproj" />
+    <Project Path="api-ecommercer-ped.domain/api-ecommercer-ped.domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="api-ecommercer-ped.persistence/api-ecommercer-ped.persistence.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="api-ecommerce-ped.web/api-ecommerce-ped.web.csproj" />
+  </Folder>
+  <Folder Name="/Test/">
+    <Project Path="api-ecommercer-ped.test/api-ecommercer-ped.test.csproj" />
+  </Folder>
+</Solution>
